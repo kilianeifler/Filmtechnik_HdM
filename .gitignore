@@ -6,3 +6,4 @@ Ex_2/.DS_Store
 rgb_exposure_stack.npmat.npy
 *.npy
 .gitignore
+.vscode/settings.json
