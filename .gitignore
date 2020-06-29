@@ -6,3 +6,4 @@ rgb_exposure_stack.npmat.npy
 .vscode/settings.json
 Ex_1/Exercise_LUT_Workshop.ipynb
 .vscode/settings.json
+.DS_Store
